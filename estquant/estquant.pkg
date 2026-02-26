@@ -1,4 +1,4 @@
-D 'mss': Heteroskedasticity test for quantile or OLS regressions Use mss With STATA 19
+D 'estquant': Quantile approach by Combes et al. (2012) Use estquant With STATA 19
 D
-F mss.ado
-F mss.sthlp
+F estquant.ado
+F estquant.sthlp
